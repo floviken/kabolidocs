@@ -36,3 +36,27 @@ Get started with our [Getting Started Guide](getting-started.md).
 After DNS is working, create a file named `CNAME` in your `docs/` folder:
 ```
 doc.kaboli.xyz
+
+
+!!! note "Important Note"
+    This is a note admonition.
+
+!!! warning
+    This is a warning without custom title.
+
+!!! tip "Pro Tip"
+    Use these for helpful hints!
+
+
+=== "Python"
+```python
+    def hello():
+        print("Hello")
+```
+
+=== "JavaScript"
+```javascript
+    function hello() {
+        console.log("Hello");
+    }
+```
