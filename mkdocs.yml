@@ -1,5 +1,5 @@
 site_name: Your Documentation
-site_url: https://doc.kaboli.xyz/
+site_url: http://doc.kaboli.xyz/
 theme:
   name: material
   features:
